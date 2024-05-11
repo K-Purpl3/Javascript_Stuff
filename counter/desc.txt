@@ -1,0 +1,2 @@
+A counter where you can increase, decrease and reset the counter.
+3 buttons and 1 label set at 0

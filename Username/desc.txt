@@ -1,0 +1,3 @@
+Little thing where you write your username in a text box.
+When you press the submit button the H1 changes from Hej! to Hej! + username.
+Same thing goes for the H2 under the submit button, it shows "Your username is " + username.
