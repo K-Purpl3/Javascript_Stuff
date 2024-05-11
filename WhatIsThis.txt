@@ -1,0 +1,6 @@
+Alright, this isn't much, just small projects done with JavaScript for practice. 
+Each project will be in its own folder and will have a text file explaining what it does. 
+It's nothing fancy, but it's good for beginner practice. 
+Plus, I'd rather not keep everything on a USB drive, in case I lose it or need to use one and have to delete the projects. 
+So, I'm leaving them here on my GitHub.
+:P bleeehhh
