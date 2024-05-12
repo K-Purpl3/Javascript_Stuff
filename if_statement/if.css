@@ -1,0 +1,48 @@
+body{
+    background-color:cornflowerblue;
+}
+#myH1 {
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Helvetica;
+    color:darkslateblue;
+}
+
+#myText { 
+    text-align: center;
+}
+
+#myButton { 
+    text-align: center;
+}
+
+#myH2 {
+    text-align: center;
+    color: blanchedalmond;
+}
+#myH3 {
+    text-align: center;
+    color: blanchedalmond;
+}
+
+#myText, #myButton, #myH2, #myH3{
+    display: block;
+    margin: 0 auto;
+}
+
+.button{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: black;
+    background-color:orange;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.button:hover {
+    background-color:orangered;
+    color: black;
+}
+
